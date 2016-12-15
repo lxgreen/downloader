@@ -1,0 +1,23 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "description": "photo downloader for flickr",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxgreen/downloader.git"
+  },
+  "keywords": [
+    "flickr",
+    "downloader"
+  ],
+  "author": "lxgreen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxgreen/downloader/issues"
+  },
+  "homepage": "https://github.com/lxgreen/downloader#readme"
+}
