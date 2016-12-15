@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lxgreen/downloader/issues"
   },
-  "homepage": "https://github.com/lxgreen/downloader#readme"
+  "homepage": "https://github.com/lxgreen/downloader#readme",
+  "dependencies": {
+    "flickrapi": "^0.6.0"
+  }
 }
