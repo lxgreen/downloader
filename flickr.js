@@ -29,3 +29,4 @@ Flickr.authenticate(credentials, function(error, flickr) {
 		      { "label": "Original", "width": "3264", "height": "1840", "source": "https:\/\/farm3.staticflickr.com\/2815\/9214770336_e497e1cc7d_o.jpg", "url": "https:\/\/www.flickr.com\/photos\/lxgreen\/9214770336\/sizes\/o\/", "media": "photo" }
 		    ] }, "stat": "ok" }
  */
+
